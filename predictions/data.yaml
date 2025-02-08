@@ -1,0 +1,7 @@
+train: yolov5/data_images/train
+val:  yolov5/data_images/test
+
+
+nc: 2
+names: ['emergency', 'non-emergency']
+
